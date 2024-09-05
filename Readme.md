@@ -13,8 +13,11 @@ A simple keylogger that captures keystrokes on both Windows and Unix-based syste
 
 1. Clone or download the repository to your local machine.
 
-2. ```bash
+2. Install the required dependencies:
+
+ ```bash
 pip install pynput
+```
 
 3. Run python main.py
 
